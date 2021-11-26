@@ -1,0 +1,37 @@
+@import url("https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Inconsolata:wght@600&family=Irish+Grover&family=M+PLUS+1+Code&family=Montserrat:wght@600&family=Oswald&family=Zen+Antique+Soft&display=swap");
+:root {
+  --color: #78350f;
+  --yellow: #fffbeb;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: var(--yellow);
+  color: var(--color);
+  margin: auto;
+  max-width: 650px;
+  font-family: "M PLUS 1 Code", sans-serif;
+}
+input {
+  padding: 0.8rem;
+  width: 50%;
+  margin-top: 20px;
+  border-radius: 1.5rem;
+}
+
+#output-cont {
+  margin-top: 50px;
+  font-size: 1.8rem;
+}
+
+#heading-three {
+  margin-top: 50px;
+  font-size: 1.2rem;
+  margin-bottom: 40px;
+}
+#heading {
+  font-weight: bold;
+  font-size: 2.5rem;
+  margin-top: 50px;
+}
